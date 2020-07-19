@@ -1,5 +1,0 @@
-package com.bigdata.mapreduce.temperature.setupcleanup;
-
-public class MaxTemperatureMapper {
-
-}
